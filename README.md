@@ -4,13 +4,13 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/antonpeganov/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://wa.me/+79172391067">
     <img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
   <a href="https://t.me/antonwebdev">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
@@ -27,6 +27,11 @@
 ![SASS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-316192?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-00d8ff?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux&logoColor=white)
+![ReactRouter](https://img.shields.io/badge/react_router-F44250?style=for-the-badge&logo=reactrouter&logoColor=white)
+![ReactHookForm](https://img.shields.io/badge/react_hook_form-ec5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/material_ui-0d6efd?style=for-the-badge&logo=materialui&logoColor=white)
 ![VueJS](https://img.shields.io/badge/vue.js-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=%2361DAFB)
 ![VueRouter](https://img.shields.io/badge/vue_router-4FC08D?style=for-the-badge&logo=vuerouter&logoColor=%2361DAFB)
 ![Vuex](https://img.shields.io/badge/vuex-4FC08D?style=for-the-badge&logo=vuex&logoColor=white)
