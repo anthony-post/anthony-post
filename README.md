@@ -33,6 +33,7 @@
 ![NextJS](https://img.shields.io/badge/next.js-63bc73?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![ReactHookForm](https://img.shields.io/badge/react_hook_form-ec5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/material_ui-0d6efd?style=for-the-badge&logo=materialui&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![VueJS](https://img.shields.io/badge/vue.js-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=%2361DAFB)
 ![VueRouter](https://img.shields.io/badge/vue_router-4FC08D?style=for-the-badge&logo=vuerouter&logoColor=%2361DAFB)
